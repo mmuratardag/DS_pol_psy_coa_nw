@@ -1,1 +1,1 @@
-# DS_pol_psy_coa_nw
+# Coauthor Network Analysis of Political Psychologists
